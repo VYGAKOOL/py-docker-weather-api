@@ -4,7 +4,7 @@ import requests
 
 
 BASE_URL = "http://api.weatherapi.com/v1/current.json"
-CITY_NAME = "Lviv"
+CITY_NAME = "Paris"
 API_KEY_ENV_NAME = "WEATHER_API_KEY"
 
 
